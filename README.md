@@ -1,6 +1,6 @@
 # DSC-SIST Hacktoberfest 2019
 
-This is a beginner friendly repository made specifically for Hacktoberfest that helps you get into OpenSource and takes you a step closer to earning your Hacktoberfest T-shirt 👕
+This is a beginner friendly repository made specifically for Hacktoberfest that helps you get into OpenSource and takes you a step closer to earning your own Hacktoberfest T-shirt 👕
 
 #### Make sure you read [CONTRIBUTING.md](CONTRIBUTING.md) before getting started.
 
